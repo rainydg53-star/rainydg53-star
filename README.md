@@ -72,9 +72,22 @@ https://github.com/rainydg53-star/SkinClinic
 ## 🛒 Jmarket (개인프로젝트)
 
 ### 중고거래 및 실시간 경매 기반 마켓 플랫폼
+<p align="center">
+  <img src="https://img.shields.io/badge/Project-Personal_Portfolio-111827?style=for-the-badge" alt="Personal Portfolio" />
+  <img src="https://img.shields.io/badge/Status-In_Progress-2563EB?style=for-the-badge" alt="In Progress" />
+  <img src="https://img.shields.io/badge/Deploy-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Realtime-Chat_&_Auction-16A34A?style=flat-square" alt="Realtime" />
+  <img src="https://img.shields.io/badge/Payment-Mileage_System-7C3AED?style=flat-square" alt="Mileage" />
+  <img src="https://img.shields.io/badge/Admin-Operation_Dashboard-0F172A?style=flat-square" alt="Admin" />
+</p>
 
 🔗 GitHub  
 https://github.com/rainydg53-star/Jmarket
+
+
 
 <br />
 <br />
