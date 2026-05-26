@@ -49,6 +49,18 @@ Java, Spring Boot, React, Next.js를 활용해
 ## 💆 Skin Clinic (팀프로젝트)
 
 ### 피부 설문 기반 맞춤 시술 추천 및 예약·상담 웹 서비스
+#### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+#### Backend
+![Java](https://img.shields.io/badge/Java_21-orange?style=for-the-badge)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+
+#### Database & Infra
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 🔗 GitHub  
 https://github.com/rainydg53-star/SkinClinic
