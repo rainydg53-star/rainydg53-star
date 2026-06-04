@@ -104,7 +104,7 @@ https://github.com/rainydg53-star/SkinClinic
 https://github.com/rainydg53-star/Jmarket
 <br />
 🔗 Aws 배포사이트  
-http://3.34.44.26
+https://jmarketjs.com
 
 
 <br />
